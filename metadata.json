@@ -1,0 +1,5 @@
+{
+  "name": "Lumber Project Estimator",
+  "description": "Simple tool for estimating cedar lumber requirements for decks and fences.",
+  "requestFramePermissions": []
+}
